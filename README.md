@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-GitHub Personal Site: https://xglacies.github.io/
+[GitHub Personal Site](https://xglacies.github.io/)
 
 <!--
 
